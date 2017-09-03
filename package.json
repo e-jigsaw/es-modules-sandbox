@@ -3,7 +3,7 @@
   "name": "es-modules-sandbox",
   "description": "es modules sandbox",
   "scripts": {
-    "start": "static -p 9999 public"
+    "start": "static -p 9999 docs"
   },
   "author": "jigsaw (http://jgs.me)",
   "license": "MIT",
