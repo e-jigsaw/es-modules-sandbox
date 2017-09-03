@@ -1,12 +1,13 @@
 {
+  "private": true,
   "name": "es-modules-sandbox",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "es modules sandbox",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "static -p 9999 public"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "jigsaw (http://jgs.me)",
+  "license": "MIT",
+  "dependencies": {
+    "node-static": "^0.7.9"
+  }
 }
